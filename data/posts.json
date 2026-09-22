@@ -1,0 +1,39 @@
+[
+    {
+    "title":"luke",
+    "date": "1977-05-25",
+    "contentHtml":"https://starwars.fandom.com/wiki/Luke_Skywalker"
+    },
+
+    {
+    "title":"leia",
+    "contentHtml":"https://starwars.fandom.com/wiki/Leia_Skywalker_Organa_Solo"
+    },
+
+    {
+    "title":"ben",
+    "contentHtml":"https://starwars.fandom.com/wiki/Obi-Wan_Kenobi"
+    },
+
+    {
+    "title":"han",
+    "contentHtml":"https://starwars.fandom.com/wiki/Han_Solo"
+    },
+
+    {
+    "title":"chewie",
+    "contentHtml":"https://starwars.fandom.com/wiki/Chewbacca"
+    },
+
+    {
+    "title":"r2",
+    "contentHtml":"https://starwars.fandom.com/wiki/R2-D2"
+    },
+
+    {
+    "title":"c3po",
+    "contentHtml":"https://starwars.fandom.com/wiki/C-3PO"
+    }
+
+
+]
